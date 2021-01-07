@@ -1,0 +1,70 @@
+body {
+    margin-left: 300px;
+    margin-right: 200px;
+}
+ section:first-child {
+     text-align: left;
+    
+ }
+
+ section:nth-child(2) img {
+     width: 100%;
+ }
+section:nth-child(3) {
+    display: block;
+    font-size: larger;
+}
+section:nth-child(4) {
+    background-image: url(https://raw.githubusercontent.com/LTUC/amman-201d12/main/class-10/lab-a/lab-assets/list-bg.png);
+    width: 100%;
+    display:inline ;
+}
+.form1 {
+    width: 45%;
+    float: right; 
+    background-image: url(https://raw.githubusercontent.com/LTUC/amman-201d12/main/class-10/lab-a/lab-assets/list-bg.png);
+}
+
+.form2 {
+    background-image: url(https://raw.githubusercontent.com/LTUC/amman-201d12/main/class-10/lab-a/lab-assets/list-bg.png);
+}
+input  {
+    width: 75%;
+}
+
+footer {
+    display: inline-block;
+}
+footer div {
+    float: right; 
+
+}
+button {
+    float: right;
+    background-color: red;
+    color: white;
+}
+.social {
+float: right; 
+}
+h2 {
+    margin-left: 70px;
+    font-family: "cursive", Brush Script MT ;
+    margin-top: 0px;
+}
+
+form {
+    font-family: "fantasy" , Papyrus; 
+}
+
+.logo  {
+ display: block;
+
+}
+header {
+    padding-bottom:1px ;
+}
+.logo img {
+    margin-top: 15px;
+}
+
